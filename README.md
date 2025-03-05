@@ -1,7 +1,7 @@
 # ApiLivro
 
 A ApiLivro é uma API REST desenvolvida como parte de um projeto pessoal de estudos focado em Java, Spring e Docker. O projeto visa aprofundar o conhecimento na construção de APIs, utilizando boas práticas e ferramentas modernas.
-Caso queira acessa a documentação através do springDoc, basta rodar o projeto e acessar o link http://localhost:8080/swagger-ui/index.html
+Caso queira acessar a documentação através do springDoc, basta rodar o projeto e acessar o link http://localhost:8080/swagger-ui/index.html
 
 # Entidades
 
